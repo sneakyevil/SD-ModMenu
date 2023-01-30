@@ -1,5 +1,5 @@
 # Installation
-1. Download latest .rar file from Release
+1. Download latest **ModMenu.rar** file from Release
 2. Extract all files inside game folder
 3. Launch game
 
