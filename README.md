@@ -13,3 +13,6 @@ If your game crashes on launch/load try replacing game executable with this one:
 | Navigation | Arrow Keys | DPAD Keys |
 | Select | Enter | A |
 | Back | Backspace | B |
+
+# Requests
+If you got any request, open issue and I might think about it and add it in future.
