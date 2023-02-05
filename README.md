@@ -1,3 +1,5 @@
+[中文说明戳我](https://github.com/sneakyevilSK/SleepingDogs-ModMenu/README_cn.md)
+
 # Installation
 1. Download latest **ModMenu.rar** file from Release
 2. Extract all files inside game folder
