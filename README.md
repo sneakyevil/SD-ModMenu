@@ -1,4 +1,4 @@
-[中文说明戳我](https://github.com/sneakyevilSK/SleepingDogs-ModMenu/blob/main/README_cn.md)
+[中文说明戳我](https://github.com/sneakyevil/SleepingDogs-ModMenu/blob/main/README_cn.md)
 
 # Installation
 1. Download latest **ModMenu.rar** file from Release
