@@ -1,3 +1,7 @@
+[![Current Release](https://img.shields.io/github/v/release/sneakyevil/SleepingDogs-ModMenu?label=Current%20Release&color=red)](https://github.com/sneakyevil/SleepingDogs-ModMenu/releases/latest)
+![Downloads](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-ModMenu/total?label=Total%20Downloads&color=red)
+![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-ModMenu/latest/total?color=red&label=Latest%20Downloads)
+
 [中文说明戳我](https://github.com/sneakyevil/SleepingDogs-ModMenu/blob/main/README_cn.md)
 
 # Installation
