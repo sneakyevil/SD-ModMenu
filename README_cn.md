@@ -1,5 +1,9 @@
+[![当前版本](https://img.shields.io/github/v/release/sneakyevil/SleepingDogs-ModMenu?label=当前版本&color=red)](https://github.com/sneakyevil/SleepingDogs-ModMenu/releases/latest)
+![总下载量](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-ModMenu/total?label=总下载量&color=red)
+![最新版下载量](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-ModMenu/latest/total?color=red&label=最新版下载量)
+
 # 安装
-1. 从 Release 中下载 **ModMenu.rar**
+1. 从 Release 中下载 [ModMenu.rar](https://github.com/sneakyevil/SleepingDogs-ModMenu/releases/latest)
 2. 解压所有文件到游戏目录下
 3. 启动游戏
 
