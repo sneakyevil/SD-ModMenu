@@ -3,8 +3,9 @@
 # Info
 Most of pre-releases/new version will be under `5$/mo sponsor tier` that you can find by [Clicking Here](https://github.com/sponsors/sneakyevil). 
 
-The reason behind this is I barely get any revenue by doing this work and I just don't wanna bother doing this forever for nothing. If there will be enough sponsors per month then 
-I will release the older version for public while keeping sponsors with newer version.
+The reason behind this is I barely get any revenue by doing this work and I just don't wanna bother doing this forever for nothing. 
+
+If there will be enough sponsors per month then I will release the older version for public while keeping sponsors with newer version.
 
 # Changelog
 
