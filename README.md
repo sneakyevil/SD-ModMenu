@@ -2,7 +2,7 @@
 ![Downloads](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-ModMenu/total?label=Total%20Downloads&color=red)
 ![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-ModMenu/latest/total?color=red&label=Latest%20Downloads)
 
-[中文说明戳我](README_cn.md)
+[中文说明戳我](README_cn.md) | [Sponsor Info](README_sponsor.md)
 
 # Installation
 1. Download latest [ModMenu.rar](https://github.com/sneakyevil/SleepingDogs-ModMenu/releases/latest) file from Release
