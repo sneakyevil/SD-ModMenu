@@ -9,6 +9,11 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.8.0:__
+> - Added animation groups.
+> - Added Quake Movement in Misc Options.
+> - Fixed animations not working properly.
+
 __v1.7.0:__
 > - Added option to select Heat Level.
 > - Added option for NPC Spawning:
