@@ -1,5 +1,3 @@
-![Current Release](https://img.shields.io/badge/Current%20Sponsor%20Release-v1.8.0-red)
-
 # Info
 Most of pre-releases/new version will be under `5$/mo sponsor tier` that you can find by [Clicking Here](https://github.com/sponsors/sneakyevil). 
 
