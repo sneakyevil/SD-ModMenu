@@ -13,6 +13,8 @@
 If your game crashes on launch/load try replacing game executable with this one:
 [sdhdship.exe (Steam)](https://mega.nz/file/fK5SWARD#1fAWkxAHaKCIMDaJ5XAQKvjs6gK4RCQo5ZlvvtHWtVw)
 
+If you're using GOG Version you will also need this: [SteamAPI_Offline](https://github.com/SDmodding/SteamAPI_Offline/releases/latest/download/Release.rar)
+
 # Controls
 | Type | Keyboard | Gamepad |
 | ------------- | ------------- | ------------- |
