@@ -28,11 +28,3 @@ __v1.8.0:__
 > - Added animation groups.
 > - Added Quake Movement in Misc Options.
 > - Fixed animations not working properly.
-
-__v1.7.0:__
-> - Added option to select Heat Level.
-> - Added option for NPC Spawning:
->     - Companion
->     - Health
->     - Weapon
-> - Fixed issue with free cam movement speed
