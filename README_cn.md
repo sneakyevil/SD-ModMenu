@@ -1,5 +1,5 @@
 [![当前版本](https://img.shields.io/github/v/release/sneakyevil/SleepingDogs-ModMenu?label=当前版本&color=red)](https://github.com/sneakyevil/SleepingDogs-ModMenu/releases/latest/download/ModMenu.rar)
-[![当前赞助者版本](https://img.shields.io/badge/当前赞助者版本-v1.9.0-red)](README_sponsor.md)
+[![当前赞助者版本](https://img.shields.io/badge/当前赞助者版本-v1.9.1-red)](README_sponsor.md)
 ![总下载量](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-ModMenu/total?label=总下载量&color=red)
 ![最新版下载量](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-ModMenu/latest/total?color=red&label=最新版下载量)
 
