@@ -7,6 +7,13 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.9.1:__
+> - Fixed Model Changer Stuff:
+>     - Camera being wacky on certain models
+>     - Equipped Weapon would glitch bones
+>     - Black screen after death
+> - Fixed crash that would cause when closing menu, dropping weapon and opening menu while been inside Weapon Options section.
+
 __v1.9.0:__
 > - Added Player Options:
 >     - Modifier: Move Speed
