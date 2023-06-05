@@ -7,6 +7,10 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.10.1:__
+> - Added Spawn Custom Weapon Option:
+>     - Gravity Gun
+
 __v1.9.1:__
 > - Fixed Model Changer Stuff:
 >     - Camera being wacky on certain models
