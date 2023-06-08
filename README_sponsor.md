@@ -8,6 +8,10 @@ If there will be enough sponsors per month then I will release the older version
 # Changelog
 
 __v1.10.1:__
+> - Optimization for Vehicle Options.
+> - Added Player Option: Death Touch.
+
+__v1.10.0:__
 > - Added Spawn Custom Weapon Option:
 >     - Gravity Gun
 
@@ -34,8 +38,3 @@ __v1.9.0:__
 > - Changed Spawned Vehicles, Weapons, NPCs have no limit. (Might crash game if you spawn too much)
 > - Fixed NPCs issue that caused random crashes when using Delete All.
 > - Overall Mod Menu performance optimization.
-
-__v1.8.0:__
-> - Added animation groups.
-> - Added Quake Movement in Misc Options.
-> - Fixed animations not working properly.
