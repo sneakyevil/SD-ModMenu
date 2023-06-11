@@ -7,6 +7,14 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.10.2:__
+> - Added Vehicle Option: 
+>     - Fun - Extreme Ramming: Force Multiplier
+> - Added Game Option: 
+>     - Camera: FOV Override
+> - Added Sponsoring Section
+> - Fixed Player Option: Clothing Presets
+
 __v1.10.1:__
 > - Optimization for Vehicle Options.
 > - Added Player Option: Death Touch.
