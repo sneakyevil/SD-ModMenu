@@ -7,6 +7,13 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.11.1:__
+> - Added Player Modifier Option:
+>     - Character Type:
+>         - Default
+>         - Elite Ghoul
+>         - Jiang Shi  
+
 __v1.11.0:__
 > - Added Vehicle Option: Rainbow Color
 
