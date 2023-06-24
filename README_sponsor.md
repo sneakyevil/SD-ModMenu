@@ -24,19 +24,3 @@ __v1.11.1:__
 
 __v1.11.0:__
 > - Added Vehicle Option: Rainbow Color
-
-__v1.10.2:__
-> - Added Vehicle Option: 
->     - Fun - Extreme Ramming: Force Multiplier
-> - Added Game Option: 
->     - Camera: FOV Override
-> - Added Sponsoring Section
-> - Fixed Player Option: Clothing Presets
-
-__v1.10.1:__
-> - Optimization for Vehicle Options.
-> - Added Player Option: Death Touch.
-
-__v1.10.0:__
-> - Added Spawn Custom Weapon Option:
->     - Gravity Gun
