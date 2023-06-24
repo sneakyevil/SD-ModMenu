@@ -7,6 +7,14 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.12.0:__
+> - Added Crash Handler (Small popup will show up if game crashes)
+> - Added Misc Option:
+>     - Pull Vehicles
+> - Added NPC Spawn Option:
+>     - Godmode
+> - Fixed rotation issue after disabling Quake Option.
+
 __v1.11.1:__
 > - Added Player Modifier Option:
 >     - Character Type:
