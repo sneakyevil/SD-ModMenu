@@ -7,6 +7,10 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.12.1:__
+> - Fixed issue when opening World Option section it would modify world time.
+> - Reworked character list for NPC Creating & Model Changer.
+
 __v1.12.0:__
 > - Added Crash Handler (Small popup will show up if game crashes)
 > - Added Misc Option:
