@@ -7,6 +7,10 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.12.2:__
+> - Added NPC Misc Option:
+>     - Everyone hates me 
+
 __v1.12.1:__
 > - Fixed issue when opening World Option section it would modify world time.
 > - Reworked character list for NPC Creating & Model Changer.
