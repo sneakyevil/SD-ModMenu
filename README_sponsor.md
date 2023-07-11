@@ -7,6 +7,10 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.12.3:__
+> - Changed Weapon Option:
+>     - Rainbow Projectiles are actually rainbow.
+
 __v1.12.2:__
 > - Added NPC Misc Option:
 >     - Everyone hates me 
