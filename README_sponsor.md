@@ -7,6 +7,11 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.13.0:__
+> - Added Misc Option:
+>     - RtAudio Manager & Disco Ball Modular.
+> - Updated some unresolved animation hashes to correct names.
+
 __v1.12.3:__
 > - Changed Weapon Option:
 >     - Rainbow Projectiles are actually rainbow.
@@ -26,13 +31,3 @@ __v1.12.0:__
 > - Added NPC Spawn Option:
 >     - Godmode
 > - Fixed rotation issue after disabling Quake Option.
-
-__v1.11.1:__
-> - Added Player Modifier Option:
->     - Character Type:
->         - Default
->         - Elite Ghoul
->         - Jiang Shi  
-
-__v1.11.0:__
-> - Added Vehicle Option: Rainbow Color
