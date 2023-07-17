@@ -7,6 +7,9 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.13.2:__
+> - Fixed crash that would occur when enabling `Everyone hates me`.
+
 __v1.13.0:__
 > - Added Misc Option:
 >     - RtAudio Manager & Disco Ball Modular.
