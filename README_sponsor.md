@@ -7,6 +7,9 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.13.3:__
+> - Added checks inside NPC Companion feature that could cause game crash while starting mission/cutscene.
+
 __v1.13.2:__
 > - Fixed crash that would occur when enabling `Everyone hates me`.
 
