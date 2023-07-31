@@ -7,6 +7,9 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.13.4:__
+> - Fixed Godmode issue with NPC Spawn option as it worked inverted way.
+
 __v1.13.3:__
 > - Added checks inside NPC Companion feature that could cause game crash while starting mission/cutscene.
 
