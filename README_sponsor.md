@@ -7,6 +7,10 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.14.0:__
+> - Added RtAudio Manager - Disco Ball Option:
+>     - Add (Attached)
+
 __v1.13.4:__
 > - Fixed Godmode issue with NPC Spawn option as it worked inverted way.
 
