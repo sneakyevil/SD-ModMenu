@@ -7,6 +7,10 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.15.0:__
+> - Added RtAudio Manager - Audio Beam
+> - Changed Add/Remove option for 'RtAudio Manager - Disco Ball'
+
 __v1.14.0:__
 > - Added RtAudio Manager - Disco Ball Option:
 >     - Add (Attached)
