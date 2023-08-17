@@ -7,6 +7,10 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.15.1:__
+> - Added NPC Option:
+>     - Pedestrians hates each other
+
 __v1.15.0:__
 > - Added RtAudio Manager - Audio Beam
 > - Changed Add/Remove option for 'RtAudio Manager - Disco Ball'
