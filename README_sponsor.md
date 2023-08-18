@@ -32,23 +32,3 @@ __v1.13.0:__
 > - Added Misc Option:
 >     - RtAudio Manager & Disco Ball Modular.
 > - Updated some unresolved animation hashes to correct names.
-
-__v1.12.3:__
-> - Changed Weapon Option:
->     - Rainbow Projectiles are actually rainbow.
-
-__v1.12.2:__
-> - Added NPC Misc Option:
->     - Everyone hates me 
-
-__v1.12.1:__
-> - Fixed issue when opening World Option section it would modify world time.
-> - Reworked character list for NPC Creating & Model Changer.
-
-__v1.12.0:__
-> - Added Crash Handler (Small popup will show up if game crashes)
-> - Added Misc Option:
->     - Pull Vehicles
-> - Added NPC Spawn Option:
->     - Godmode
-> - Fixed rotation issue after disabling Quake Option.
