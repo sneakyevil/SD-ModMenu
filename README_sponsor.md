@@ -7,6 +7,11 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.15.4:__
+> - Added Tear Gas Launcher in weapon spawning option.
+> - Fixed issue while changing game resolution.
+> - Rainbow projectiles now work with any weapon.
+
 __v1.15.1:__
 > - Added NPC Option:
 >     - Pedestrians hates each other
