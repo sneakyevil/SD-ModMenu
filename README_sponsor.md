@@ -7,6 +7,13 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.15.6:__
+> - Added NPC Option:
+>    - Everyone is friendly to me
+
+__v1.15.5:__
+> - Fix rendering while in fullscreen mode.
+
 __v1.15.4:__
 > - Added Tear Gas Launcher in weapon spawning option.
 > - Fixed issue while changing game resolution.
@@ -23,17 +30,3 @@ __v1.15.0:__
 __v1.14.0:__
 > - Added RtAudio Manager - Disco Ball Option:
 >     - Add (Attached)
-
-__v1.13.4:__
-> - Fixed Godmode issue with NPC Spawn option as it worked inverted way.
-
-__v1.13.3:__
-> - Added checks inside NPC Companion feature that could cause game crash while starting mission/cutscene.
-
-__v1.13.2:__
-> - Fixed crash that would occur when enabling `Everyone hates me`.
-
-__v1.13.0:__
-> - Added Misc Option:
->     - RtAudio Manager & Disco Ball Modular.
-> - Updated some unresolved animation hashes to correct names.
