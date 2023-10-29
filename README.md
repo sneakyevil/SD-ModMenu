@@ -1,12 +1,12 @@
-[![Current Release](https://img.shields.io/github/v/release/sneakyevil/SleepingDogs-ModMenu?label=Current%20Release&color=red)](https://github.com/sneakyevil/SleepingDogs-ModMenu/releases/latest/download/ModMenu.rar)
+[![Current Release](https://img.shields.io/github/v/release/sneakyevil/SD-ModMenu?label=Current%20Release&color=red)](https://github.com/sneakyevil/SD-ModMenu/releases/latest/download/ModMenu.rar)
 [![Sponsor Release](https://img.shields.io/badge/Current%20Sponsor%20Release-v1.15.6-red)](README_sponsor.md)
-![Downloads](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-ModMenu/total?label=Total%20Downloads&color=red)
-![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-ModMenu/latest/total?color=red&label=Latest%20Downloads)
+![Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-ModMenu/total?label=Total%20Downloads&color=red)
+![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-ModMenu/latest/total?color=red&label=Latest%20Downloads)
 
 [中文说明戳我](README_cn.md) | [Sponsor Info](README_sponsor.md)
 
 # Installation
-1. Download latest [ModMenu.rar](https://github.com/sneakyevil/SleepingDogs-ModMenu/releases/latest) file from Release or by [Clicking here](https://github.com/sneakyevil/SleepingDogs-ModMenu/releases/latest/download/ModMenu.rar).
+1. Download latest [ModMenu.rar](https://github.com/sneakyevil/SD-ModMenu/releases/latest) file from Release or by [Clicking here](https://github.com/sneakyevil/SD-ModMenu/releases/latest/download/ModMenu.rar).
 2. Extract all files inside game folder
 3. Launch game
 
