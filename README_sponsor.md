@@ -7,6 +7,15 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.16.0:__
+> - Some optimization tweaks.
+> - Fixed Vehicle Flip Option.
+> - Reworked Vehicle Spawn Option:
+>     - Vehicles are now in their own category.
+>     - Vehicles will spawn in actual world as preview before spawning them.
+> - Added Player Option:
+>     - Teleport to nearest vehicle (As Driver, As Passenger)
+
 __v1.15.6:__
 > - Added NPC Option:
 >    - Everyone is friendly to me
