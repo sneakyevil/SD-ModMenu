@@ -7,6 +7,15 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.16.1:__
+> - Added NPC Options:
+>     - Traffic:
+>         - AI:
+>             - Ignore Peds
+>             - Ignore Speed Limit
+>             - Ignore Traffic Lights
+>             - Never Brake
+
 __v1.16.0:__
 > - Some optimization tweaks.
 > - Fixed Vehicle Flip Option.
