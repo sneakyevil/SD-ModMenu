@@ -7,6 +7,14 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v.16.2:__
+> - Fixed non working features:
+>     - Player Options: 
+>         - Death Touch
+>     - Vehicle Options: 
+>         - Fun -> Extreme Ramming
+> - Changed Vehicle Horn Boost logic to be based on frame time instead static value which causes vehicle to get high speed too fast...
+
 __v1.16.1:__
 > - Added NPC Options:
 >     - Traffic:
