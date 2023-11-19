@@ -1,5 +1,5 @@
 [![当前版本](https://img.shields.io/github/v/release/sneakyevil/SD-ModMenu?label=当前版本&color=red)](https://github.com/sneakyevil/SD-ModMenu/releases/latest/download/ModMenu.rar)
-[![当前赞助者版本](https://img.shields.io/badge/当前赞助者版本-v1.16.2-red)](README_sponsor.md)
+[![当前赞助者版本](https://img.shields.io/badge/当前赞助者版本-v1.16.3-red)](README_sponsor.md)
 ![总下载量](https://img.shields.io/github/downloads/sneakyevil/SD-ModMenu/total?label=总下载量&color=red)
 ![最新版下载量](https://img.shields.io/github/downloads/sneakyevil/SD-ModMenu/latest/total?color=red&label=最新版下载量)
 
