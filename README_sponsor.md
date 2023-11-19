@@ -7,7 +7,13 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
-__v.16.2:__
+__v1.16.3:__
+> - Reworked logic of Vehicle Color.
+> - Reworked Weapon Spawn Option:
+>     - Weapons are now in their own category.
+>     - Weapons will spawn in actual world as preview before spawning them.
+
+__v1.16.2:__
 > - Fixed non working features:
 >     - Player Options: 
 >         - Death Touch
