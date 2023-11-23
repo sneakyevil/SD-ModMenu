@@ -38,27 +38,3 @@ __v1.16.0:__
 >     - Vehicles will spawn in actual world as preview before spawning them.
 > - Added Player Option:
 >     - Teleport to nearest vehicle (As Driver, As Passenger)
-
-__v1.15.6:__
-> - Added NPC Option:
->    - Everyone is friendly to me
-
-__v1.15.5:__
-> - Fix rendering while in fullscreen mode.
-
-__v1.15.4:__
-> - Added Tear Gas Launcher in weapon spawning option.
-> - Fixed issue while changing game resolution.
-> - Rainbow projectiles now work with any weapon.
-
-__v1.15.1:__
-> - Added NPC Option:
->     - Pedestrians hates each other
-
-__v1.15.0:__
-> - Added RtAudio Manager - Audio Beam
-> - Changed Add/Remove option for 'RtAudio Manager - Disco Ball'
-
-__v1.14.0:__
-> - Added RtAudio Manager - Disco Ball Option:
->     - Add (Attached)
