@@ -7,6 +7,11 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.16.4:__
+> - Fixed crash when trying to use `Vehicle Horn Boost`.
+> - Re-worked weapon selection for NPC Spawner.
+> - Added Random Weapon spawn in NPC Spawner.
+
 __v1.16.3:__
 > - Reworked logic of Vehicle Color.
 > - Reworked Weapon Spawn Option:
