@@ -7,6 +7,11 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.17.0:__
+> - Reworked whole `Model Changer`:
+>    - Most issues with jiggle parts/hair has been fixed.
+>    - You can now also play as Chicken/Pigeon/Rooster.
+
 __v1.16.4:__
 > - Fixed crash when trying to use `Vehicle Horn Boost`.
 > - Re-worked weapon selection for NPC Spawner.
