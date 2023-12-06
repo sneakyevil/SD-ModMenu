@@ -7,6 +7,11 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.17.1:__
+> - Added some missing characters for (Model Changer & NPC Spawner)
+> - Added option to toggle `Low LOD` model in Model Changer.
+> - Fixed camera resetting view angle when changing Model.
+
 __v1.17.0:__
 > - Reworked whole `Model Changer`:
 >    - Most issues with jiggle parts/hair has been fixed.
