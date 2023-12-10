@@ -7,6 +7,11 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.17.2:__
+> - Re-worked Free Camera to be more easily controllable with mouse/keyboard.
+>     - Option to toggle to old style is possible.
+>     - Fixed issue where playing on widescreen would cause letterbox to appear.
+
 __v1.17.1:__
 > - Added some missing characters for (Model Changer & NPC Spawner)
 > - Added option to toggle `Low LOD` model in Model Changer.
