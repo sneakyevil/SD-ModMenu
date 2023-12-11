@@ -8,7 +8,7 @@ If there will be enough sponsors per month then I will release the older version
 # Changelog
 
 __v1.17.3:__
-> - Added option to set fighting style when spawning NPC.
+> - Added option to set fighting class when spawning NPC.
 
 __v1.17.2:__
 > - Re-worked Free Camera to be more easily controllable with mouse/keyboard.
