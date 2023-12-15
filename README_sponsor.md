@@ -7,6 +7,15 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.18.0:__
+> - Added Player Options (Behaviour Modifiers):
+>     - Fists Effect (Nightmare in North Point DLC)
+>     - Monkey King Staff
+>     - Taser Gun
+> - Added World Options:
+>     - Gravity
+>     - Random Gravity
+
 __v1.17.3:__
 > - Added option to set fighting class when spawning NPC.
 
