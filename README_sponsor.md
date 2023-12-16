@@ -9,6 +9,7 @@ If there will be enough sponsors per month then I will release the older version
 
 __v1.18.2:__
 > - Added attachable props on certain character when using Model Changer.
+> - Model Changer will use character voice if any exist.
 > - Slightly modified Character List for Model Changer & NPC Spawner.
 > - Changed NPC Spawner to preview selected NPC same way as Vehicle/Weapon does.
 > - NPC Companion will now force allied faction on hostile characters.
