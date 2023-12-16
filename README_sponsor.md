@@ -7,6 +7,11 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.18.1:__
+> - Small optimization around Player Options.
+> - Added Player Option Modifier:
+>     - Model Scale
+
 __v1.18.0:__
 > - Added Player Options (Behaviour Modifiers):
 >     - Fists Effect (Nightmare in North Point DLC)
