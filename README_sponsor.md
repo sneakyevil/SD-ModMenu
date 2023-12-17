@@ -7,6 +7,10 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.18.3:__
+> - Sorted Police Characters.
+> - Added Option for Model Changer to toggle Wei Voice.
+
 __v1.18.2:__
 > - Added attachable props on certain character when using Model Changer.
 > - Model Changer will use character voice if any exist.
