@@ -7,6 +7,9 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.18.5:__
+> - Fixed attachable hats for Model Changer getting automatically be unequipped after player movement.
+
 __v1.18.4:__
 > - Added NPC Spawn Option to toggle AI for all spawned NPCs
 > - Added Player Behaviour Options:
