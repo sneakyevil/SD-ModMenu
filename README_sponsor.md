@@ -7,6 +7,11 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.18.6:__
+> - Added some missing characters for NPC Spawner & Model Changer.
+> - Changed Ponytail Character to Mission Character.
+> - Fixed small category displaying bug when selecting character category.
+
 __v1.18.5:__
 > - Fixed attachable hats for Model Changer getting automatically be unequipped after player movement.
 
