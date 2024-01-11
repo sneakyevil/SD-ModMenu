@@ -18,7 +18,7 @@ __v1.19.0:__
 >     - Vehicle will teleport with proper rotation.
 > - Added Teleport Interior Options:
 >     - Bosses Meet Room (Unused)
->     - Uncle Po's Apparment
+>     - Uncle Po's Apartment
 
 __v1.18.6:__
 > - Added some missing characters for NPC Spawner & Model Changer.
