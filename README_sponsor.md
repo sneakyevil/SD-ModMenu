@@ -7,6 +7,19 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.19.0:__
+> - Performance & Memory optimizations.
+> - Added Patch to prevent emergency loading while inside certain interiors.
+> - Added Audio Feedback for Menu that can be toggled in settings.
+> - Fixed placement of player while turning off Free Camera.
+> - Changed Save/Load Teleport to Persistent Teleport:
+>     - Works basically same way as before.
+>     - Vehicle will teleport with saved velocity. (Toggleable)
+>     - Vehicle will teleport with proper rotation.
+> - Added Teleport Interior Options:
+>     - Bosses Meet Room (Unused)
+>     - Uncle Po's Apparment
+
 __v1.18.6:__
 > - Added some missing characters for NPC Spawner & Model Changer.
 > - Changed Ponytail Character to Mission Character.
@@ -46,58 +59,3 @@ __v1.18.0:__
 > - Added World Options:
 >     - Gravity
 >     - Random Gravity
-
-__v1.17.3:__
-> - Added option to set fighting class when spawning NPC.
-
-__v1.17.2:__
-> - Re-worked Free Camera to be more easily controllable with mouse/keyboard.
->     - Option to toggle to old style is possible.
->     - Fixed issue where playing on widescreen would cause letterbox to appear.
-
-__v1.17.1:__
-> - Added some missing characters for (Model Changer & NPC Spawner)
-> - Added option to toggle `Low LOD` model in Model Changer.
-> - Fixed camera resetting view angle when changing Model.
-
-__v1.17.0:__
-> - Reworked whole `Model Changer`:
->    - Most issues with jiggle parts/hair has been fixed.
->    - You can now also play as Chicken/Pigeon/Rooster.
-
-__v1.16.4:__
-> - Fixed crash when trying to use `Vehicle Horn Boost`.
-> - Re-worked weapon selection for NPC Spawner.
-> - Added Random Weapon spawn in NPC Spawner.
-
-__v1.16.3:__
-> - Reworked logic of Vehicle Color.
-> - Reworked Weapon Spawn Option:
->     - Weapons are now in their own category.
->     - Weapons will spawn in actual world as preview before spawning them.
-
-__v1.16.2:__
-> - Fixed non working features:
->     - Player Options: 
->         - Death Touch
->     - Vehicle Options: 
->         - Fun -> Extreme Ramming
-> - Changed Vehicle Horn Boost logic to be based on frame time instead static value which causes vehicle to get high speed too fast...
-
-__v1.16.1:__
-> - Added NPC Options:
->     - Traffic:
->         - AI:
->             - Ignore Peds
->             - Ignore Speed Limit
->             - Ignore Traffic Lights
->             - Never Brake
-
-__v1.16.0:__
-> - Some optimization tweaks.
-> - Fixed Vehicle Flip Option.
-> - Reworked Vehicle Spawn Option:
->     - Vehicles are now in their own category.
->     - Vehicles will spawn in actual world as preview before spawning them.
-> - Added Player Option:
->     - Teleport to nearest vehicle (As Driver, As Passenger)
