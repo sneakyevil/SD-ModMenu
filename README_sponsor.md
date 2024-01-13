@@ -7,6 +7,18 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.19.2:__
+> - Moved Gravity settings from `World Options` to `World Options > Physics Settings`.
+> - Added `Vehicle Pinball` in `World Options > Physics Settings`.
+> - Removed `Quake` from `Misc Options` since it was unstable and not finished.
+> - Effects in `FX Manager` are now sorted by alphabet.
+> - Added Player Options:
+>     - Hit Effect:
+>         - Monkey Staff
+>         - Eletric
+>         - Eletric (Rainbow)
+>     - Mega Punch
+
 __v1.19.0:__
 > - Performance & Memory optimizations.
 > - Added Patch to prevent emergency loading while inside certain interiors.
