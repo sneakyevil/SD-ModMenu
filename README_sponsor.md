@@ -7,6 +7,9 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.19.4:__
+> - Added ability to use Teleport Options while Free Camera is enabled.
+
 __v1.19.3:__
 > - Fixed issue that would cause game to crash while changing Model and having Cultist Behavior enabled.
 
