@@ -7,6 +7,9 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.19.3:__
+> - Fixed issue that would cause game to crash while changing Model and having Cultist Behavior enabled.
+
 __v1.19.2:__
 > - Moved Gravity settings from `World Options` to `World Options > Physics Settings`.
 > - Added `Vehicle Pinball` in `World Options > Physics Settings`.
