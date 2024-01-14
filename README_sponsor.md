@@ -7,6 +7,14 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.19.5:__
+> - Added Free Cam Options:
+>     - Enable Player
+>     - Freeze Input:
+>         - Camera
+>         - Player
+>         - Camera & Player
+
 __v1.19.4:__
 > - Added ability to use Teleport Options while Free Camera is enabled.
 
