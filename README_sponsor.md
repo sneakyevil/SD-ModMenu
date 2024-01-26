@@ -7,6 +7,10 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.19.6:__
+> - Added NPC Spawner Option:
+>     - Equipped Props (Allows you to toggle if character should spawn with equipped props)
+
 __v1.19.5:__
 > - Added Free Cam Options:
 >     - Enable Player
