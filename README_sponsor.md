@@ -7,6 +7,10 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.19.8:__
+> - Increased Health Limit for NPC Spawner.
+> - Renamed "Dogboys" to "Jade Gang".
+
 __v1.19.7:__
 > - Added models to Character List:
 >     - Mission:
