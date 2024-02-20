@@ -7,6 +7,19 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.19.10:__
+> - Added Player Option:
+>     - Buffs:
+>         - Increased Damage
+>         - Damage Reduction
+>         - Face Meter Gain
+>         - Health Regeneration
+> - Added World Option:
+>     - Editor Mode
+> - Added Vehicle Option:
+>     - Fun:
+>         - Hover Mode
+
 __v1.19.9:__
 > - Added Custom Weapon:
 >     - Sniper Rifle
