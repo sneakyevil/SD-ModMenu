@@ -7,6 +7,9 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.19.13:__
+> - Added Patrolling Police (Riot) in Character List.
+
 __v1.19.10:__
 > - Added Player Option:
 >     - Buffs:
