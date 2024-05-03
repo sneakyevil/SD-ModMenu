@@ -7,6 +7,10 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.19.16:__
+> - Added Player Option:
+>      - Cop Heat: Freeze
+
 __v1.19.15:__
 > - Added Vehicle Option:
 >     - Horn Jump 
