@@ -7,6 +7,12 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.19.17:__
+> - Added Player Option:
+>     - Visual Damage:
+>         - Restore
+>         - Disable  
+
 __v1.19.16:__
 > - Added Player Option:
 >      - Cop Heat: Freeze
