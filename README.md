@@ -1,5 +1,5 @@
 [![Current Release](https://img.shields.io/github/v/release/sneakyevil/SD-ModMenu?label=Current%20Release&color=red)](https://github.com/sneakyevil/SD-ModMenu/releases/latest/download/ModMenu.rar)
-[![Sponsor Release](https://img.shields.io/badge/Current%20Sponsor%20Release-v1.19.19-red)](README_sponsor.md)
+[![Sponsor Release](https://img.shields.io/badge/Current%20Sponsor%20Release-v1.19.20-red)](README_sponsor.md)
 ![Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-ModMenu/total?label=Total%20Downloads&color=red)
 ![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-ModMenu/latest/total?color=red&label=Latest%20Downloads)
 
