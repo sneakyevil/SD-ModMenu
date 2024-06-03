@@ -7,6 +7,18 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.19.20:__
+> - Added Vehicle Option:
+>     - Actions:
+>         - Toggle Turn Signal:
+>             - Left
+>             - Right
+>             - Both
+>         - Toggle Head Lights
+>         - Unique:
+>             - Toggle Cop Lights
+>             - Toggle Taxi Light
+
 __v1.19.19:__
 > - Improvement for NPC Spawn Option:
 >     - Swap Property Set
