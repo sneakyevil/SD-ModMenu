@@ -7,6 +7,17 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.20.0:__
+> - Optimization related to memory usage.
+> - Added Extra Unique Character:
+>     - Valet
+> - Added NPC Option:
+>     - Spawn Manager
+>         -  Health Percentage:
+>             - Allied
+>             - Indifferent
+>             - Hostile
+
 __v1.19.21:__
 > - Fixed miss spelling for `Roland Ho`.
 > - Fixed HKPD Van and SUV having 2nd option swapped.
