@@ -7,6 +7,17 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.20.1:__
+> - Added World Option:
+>     - Section Layers:
+>         - Year of the snake
+>         - Nightmare from north point
+>         - Fast Girls (Mission)
+>         - Festival (Mission)
+>         - Final Kill (Mission)
+>         - Hotshot (Mission)
+>         - Popstar (Mission)
+
 __v1.20.0:__
 > - Optimization related to memory usage.
 > - Added Extra Unique Character:
