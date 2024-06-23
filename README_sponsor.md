@@ -7,6 +7,14 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.20.2:__
+> - Renamed Player Model Changer Option:
+>     - `Wei's Voice`  to `Swap Voice`
+> - Changed Vehicle Horn Options:
+>     - Disabled horn sound while any of those options is enabled. 
+> - Added Player Animation Option:
+>     - Animation Sequencer
+
 __v1.20.1:__
 > - Added World Option:
 >     - Section Layers:
