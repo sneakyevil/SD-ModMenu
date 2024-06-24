@@ -7,6 +7,10 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.20.3:__
+> - Added Misc Option:
+>     - Green Screen 
+
 __v1.20.2:__
 > - Renamed Player Model Changer Option:
 >     - `Wei's Voice`  to `Swap Voice`
