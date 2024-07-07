@@ -7,6 +7,12 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.20.4:__
+> - Added Player Option:
+>     - Actions
+>         - Ragdoll
+>         - Kiss
+
 __v1.20.3:__
 > - Added Misc Option:
 >     - Green Screen 
