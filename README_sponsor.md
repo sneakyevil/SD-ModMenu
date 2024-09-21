@@ -7,6 +7,16 @@ If there will be enough sponsors per month then I will release the older version
 
 # Changelog
 
+__v1.21.0:__
+> - Changes to the Mod Menu UI:
+>     - Optimization
+>     - Header Design
+>     - Some options are now grouped together:
+>         - Options that had toggle option and then "slider" option are now grouped as single option.
+> - Support section has been changed to be updated dynamically with active list of GitHub Sponsors/Patrons:
+>     - <ins>**If you're a private GitHub Sponsor then you won't be listed there!**</ins>
+>     - This list is updated each hour automatically.
+
 __v1.20.4:__
 > - Added Player Option:
 >     - Actions
