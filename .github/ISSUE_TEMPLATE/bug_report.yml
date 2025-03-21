@@ -1,0 +1,22 @@
+name: "Bug/Issue Report"
+description: "Report a bug related to the modification."
+title: "[BUG]: "
+labels: [ "bug" ]
+body:
+  - type: textarea
+    id: issue_description
+    attributes:
+      label: "Description:"
+      description: |
+        A concise description of the bug or issue.
+
+        - If possible, provide a step-by-step example of how to reproduce the bug or issue.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: "Screenshots/Video:"
+      description: "Attach screenshots or GIF/videos to provide context. They can often reveal details that may not be clear from the description alone."
+    validations:
+      required: false

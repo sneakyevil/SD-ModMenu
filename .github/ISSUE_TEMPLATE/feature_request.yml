@@ -1,0 +1,22 @@
+name: "Feature Request"
+description: "Suggest a new feature."
+title: "[Feature Request]: "
+labels: [ "enhancement" ]
+body:
+  - type: textarea
+    id: issue_description
+    attributes:
+      label: "Description:"
+      description: |
+        A concise description of the feature you want.
+
+        - Provide a step-by-step example of how the feature is expected to work.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: "Screenshots/Video:"
+      description: "Attach screenshots or GIF/videos to provide context. They can often reveal details that may not be clear from the description alone."
+    validations:
+      required: false

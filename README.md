@@ -5,17 +5,21 @@
 
 [中文说明戳我](README_cn.md) | [Sponsor Info](README_sponsor.md)
 
-# Installation
-1. Download latest [ModMenu.rar](https://github.com/sneakyevil/SD-ModMenu/releases/latest) file from Release or by [Clicking here](https://github.com/sneakyevil/SD-ModMenu/releases/latest/download/ModMenu.rar).
-2. Extract all files inside game folder
-3. Launch game
+> [!NOTE]  
+> The next release will be delayed due to work on v2.0. Once it's ready, it will be available to the sponsors first.
+> 
+> The latest release will be made public afterward.
+>
+> The new version is a complete rewrite of the old codebase due to using the new SDK.
 
-If your game crashes on launch/load try replacing game executable with this one:
-[sdhdship.exe (Steam)](https://mega.nz/file/fK5SWARD#1fAWkxAHaKCIMDaJ5XAQKvjs6gK4RCQo5ZlvvtHWtVw)
+## Installation
+1. You will need a compatible [Steam Executable v1.0](https://mega.nz/file/fK5SWARD#1fAWkxAHaKCIMDaJ5XAQKvjs6gK4RCQo5ZlvvtHWtVw). 
+2. Download the latest `ModMenu.rar` file from the [Release page](https://github.com/sneakyevil/SD-ModMenu/releases/latest) or by [clicking here](https://github.com/sneakyevil/SD-ModMenu/releases/latest/download/ModMenu.rar).
+3. Extract all files into the game folder.
+- The GOG version requires an additional plugin, which you can download here: [SteamAPI_Offline](https://github.com/SDmodding/SteamAPI_Offline/releases/latest/download/Release.rar).
 
-If you're using GOG Version you will also need this: [SteamAPI_Offline](https://github.com/SDmodding/SteamAPI_Offline/releases/latest/download/Release.rar)
 
-# Controls
+## Controls
 | Type | Keyboard | Gamepad |
 | ------------- | ------------- | ------------- |
 | Open/Close | Insert | R1 + Down DPAD |
@@ -23,5 +27,5 @@ If you're using GOG Version you will also need this: [SteamAPI_Offline](https://
 | Select | Enter | A |
 | Back | Backspace | B |
 
-# Requests
-If you got any request, open issue and I might think about it and add it in future.
+## Bug Reports/Requests
+If you encounter a bug or have a request, open an issue and provide a clear description.
