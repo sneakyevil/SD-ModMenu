@@ -1,9 +1,8 @@
-# Info
-Most of pre-releases/new version will be under `5$/mo sponsor tier` that you can find by [Clicking Here](https://github.com/sponsors/sneakyevil). 
-
-The reason behind this is I barely get any revenue by doing this work and I just don't wanna bother doing this forever for nothing. 
-
-If there will be enough sponsors per month then I will release the older version for public while keeping sponsors with newer version.
+Sponsors or Patrons who contribute $5 per month will get access to pre-release (new) versions of the mod menu. 
+- If you sponsor more than $5 a month, GitHub might not automatically invite you to the private repository. 
+  - In that case, just open an issue on this repository using the account you're sponsoring with, and I'll send you an invite.
+- If you're already a sponsor and accepted the invite to the repository, you can access it by [clicking here](https://github.com/sneakyevil-org/SD-ModMenuSponsor).
+- If you would like to be a sponsor you can join by [clicking here](https://github.com/sponsors/sneakyevil).
 
 # Changelog
 
