@@ -5,13 +5,6 @@
 
 [中文说明戳我](README_cn.md) | [Sponsor Info](README_sponsor.md)
 
-> [!NOTE]  
-> The next release will be delayed due to work on v2.0. Once it's ready, it will be available to the sponsors first.
-> 
-> The latest release will be made public afterward.
->
-> The new version is a complete rewrite of the old codebase due to using the new SDK.
-
 ## Installation
 1. You will need a compatible [Steam Executable v1.0](https://mega.nz/file/fK5SWARD#1fAWkxAHaKCIMDaJ5XAQKvjs6gK4RCQo5ZlvvtHWtVw). 
 2. Download the latest `ModMenu.rar` file from the [Release page](https://github.com/sneakyevil/SD-ModMenu/releases/latest) or by [clicking here](https://github.com/sneakyevil/SD-ModMenu/releases/latest/download/ModMenu.rar).
