@@ -6,6 +6,33 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.0.0:__
+> The version 2.0.0 has been developed with an entirely new codebase, mainly due to the new SDK and the old codebase being a mess.
+> 
+> - **Presets like Clothing, Vehicle Colors are not compatible with previous version!**
+> - **Added an option to save most settings between game sessions.**
+> - Option to adjust hue that changes the entire menu colors.
+> - Gamepad buttons are mapped to keyboard inputs, allowing them to be assigned to keybind options.
+>     - The option will display the mapped keyboard input instead of the actual gamepad button.
+> - Using Free Camera during a cutscene no longer disables the player character.
+> - Spawned weapons no longer despawn if the limit has not been reached.
+> - The clothing list has been reworked, and previously missing names have been corrected to match the actual outfit names.
+> - No Clip under Player Options now works inside vehicles.
+> - **Fixed an issue with some NPCs that had broken models when spawned.**
+>     - This mainly affects characters used only in cutscenes.
+>     - This also applies for Model Changer.
+> - Added toggle for Zodiac Tournament (Punch Sound FX) under Game Options.
+> - **Model Changer should no longer cause the game to get stuck on infinite loading screen when starting missions.**
+> - The character list in Model Changer and NPC Spawner has been reworked.
+> - **The Character Presets in the Game Options let you create new characters using existing game assets, mix head and body parts, and customize various properties.**
+> - Added an option to disable melee durability under Weapon Options.
+> - Added an option to change clothing color.
+> - Added an option to toggle super mass under Player Options.
+> - Changed logic of Move Speed under Player Options.
+> - Added an option to change swim speed under Player Options.
+> 
+> **NOTE:** This version has missing features from previous version, if there is some missing feature that you would like to get back please open a new issue within this repository so I could know what to prioritize in future.
+
 __v1.21.0:__
 > - Changes to the Mod Menu UI:
 >     - Optimization
