@@ -6,6 +6,13 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.0.1:__
+> - Fixed issue with saved settings not been loaded.
+> - Added additional check to prevent menu running while not been in the game.
+> - Added new feature called `Attached FX` for Weapon & Vehicle Options.
+> - Added Nearest Vehicle options under Teleport Options.
+> - Added an option to change toggle key for menu.
+
 __v2.0.0:__
 > The version 2.0.0 has been developed with an entirely new codebase, mainly due to the new SDK and the old codebase being a mess.
 > 
