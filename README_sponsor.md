@@ -6,6 +6,10 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.0.2:__
+> - Added Audio Feedback.
+> - Added toggle to enable ragdoll with Invulnerable Option.
+
 __v2.0.1:__
 > - Fixed issue with saved settings not been loaded.
 > - Added additional check to prevent menu running while not been in the game.
