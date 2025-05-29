@@ -6,6 +6,10 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.0.3:__
+> - Added option to change Game Seconds per second under World Options.
+> - Added option to change Game Speed under Game Options.
+
 __v2.0.2:__
 > - Added Audio Feedback.
 > - Added toggle to enable ragdoll with Invulnerable Option.
