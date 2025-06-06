@@ -6,6 +6,14 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.0.4:__
+> - Added option to allow props to be spawned for Model Changer.
+> - Added scale option for NPCs.
+> - Added option to flip vehicle.
+> - Added option to disable ramming cooldown for Vehicle.
+> - Added option to change NPCs damage multiplier.
+> - Added Death Touch under Player Options.
+
 __v2.0.3:__
 > - Added option to change Game Seconds per second under World Options.
 > - Added option to change Game Speed under Game Options.
