@@ -6,6 +6,14 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.0.6:__
+> - Added World Options:
+>     - Unlock Doors
+>     - Actions:
+>         - Kiss
+>         - Escort
+>         - Switch Two Chin's Gate
+
 __v2.0.4:__
 > - Added option to allow props to be spawned for Model Changer.
 > - Added scale option for NPCs.
