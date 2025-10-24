@@ -6,6 +6,13 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.1.0:__
+> - Added option to Invoke Game Slices under Game Options.
+>     - This can be used to invoke a missions/scenarios/scripts.
+> - Added Infinite Face Meter under Player Options.
+> - Added "Drunken Fist" option for Force Outfit Behavior.
+> - Added DLC Fists Effect under Player Options.
+
 __v2.0.6:__
 > - Added World Options:
 >     - Unlock Doors
