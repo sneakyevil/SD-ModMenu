@@ -6,6 +6,9 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.1.2:__
+> - Added option to Invoke Cutscenes under Game Options.
+
 __v2.1.1:__
 > - Added Green Screen under Game Options.
 
