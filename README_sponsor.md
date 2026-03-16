@@ -6,6 +6,14 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.2.0:__
+> - Added NPC Options:
+>     - Ignore Player
+>     - Spawn Options:
+>         - Fighting Class
+>         - Scale
+> - NPCs will ignore player by default while using Free Camera.
+
 __v2.1.2:__
 > - Added option to Invoke Cutscenes under Game Options.
 
