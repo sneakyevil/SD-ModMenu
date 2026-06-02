@@ -6,6 +6,32 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.3.0:__
+> - Added Vehicle Option:
+>     - Physics Definition:
+>         - Max Speed
+>         - Engine:
+>             - Minimum RPM
+>             - Optimum RPM
+>             - Maximum RPM
+>             - Clutch Slip RPM
+>             - Torque
+>             - Torque Factor At Min RPM
+>             - Torque Factor At Max RPM
+>         - Wheel Friction:
+>             - Front & Rear
+>         - Brakes:
+>             - Front & Rear Wheel Torque
+>         - Aerodynamics:
+>             - Air Density
+>             - Frontal Area
+>             - Drag Coefficient
+>             - Lift Coefficient
+>         - Steering:
+>             - Speed Sensitivity
+>             - Max Angle
+>             - Front & Rear Wheel Percentage
+
 __v2.2.0:__
 > - Added NPC Options:
 >     - Ignore Player
