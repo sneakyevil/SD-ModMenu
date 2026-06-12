@@ -6,6 +6,10 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.3.1:__
+> - Added Vehicle Option:
+>     - Neons 
+
 __v2.3.0:__
 > - Added Vehicle Option:
 >     - Physics Definition:
