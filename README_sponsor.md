@@ -6,6 +6,11 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.3.2:__
+> - Added Vehicle Option:
+>     - Paint Texture
+>         - Place PNG files in the `data/SModMenu/vehicle_textures` directory.
+
 __v2.3.1:__
 > - Added Vehicle Option:
 >     - Neons 
