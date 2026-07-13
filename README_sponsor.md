@@ -6,6 +6,9 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.3.4:__
+> - Added Freeze option in Game Options.
+
 __v2.3.3:__
 > Added Rainbow color option for menu.
 
