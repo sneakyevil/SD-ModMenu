@@ -6,6 +6,9 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.3.6:__
+> - Added option to tweak Wind Direction & Speed under World Options.
+
 __v2.3.5:__
 > - Added Allow Move Controls option under Free Camera while Enable Player flag is enabled.
 
