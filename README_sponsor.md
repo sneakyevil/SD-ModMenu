@@ -6,6 +6,9 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.3.8:__
+> - Changed Free Camera height limit near ocean level.
+
 __v2.3.7:__
 > - Disabled player input while using Free Camera when both "Enable Player" and "Allow Move Controls" are enabled.
 
