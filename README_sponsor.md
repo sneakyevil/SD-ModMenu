@@ -6,6 +6,9 @@ Sponsors or Patrons who contribute $5 per month will get access to pre-release (
 
 # Changelog
 
+__v2.3.9:__
+> - Fixed an issue where the fighting class override didn’t work when spawning NPCs.
+
 __v2.3.8:__
 > - Changed Free Camera height limit near ocean level.
 
